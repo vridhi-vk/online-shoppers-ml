@@ -48,7 +48,7 @@ The dataset is imbalanced, with substantially more non-purchasing sessions than 
 
 ## c. GitHub Repository Link
 
-[Add GitHub repository link here]
+[https://github.com/vridhi-vk/online-shoppers-ml]
 
 ## d. Models Used and Evaluation Results
 
@@ -92,4 +92,4 @@ The Streamlit application allows users to:
 
 ## Live Streamlit App
 
-[Add deployed Streamlit app link here]
+[https://online-shoppers-ml-dvbls8spw8pvfs4jbhxfjb.streamlit.app/]
